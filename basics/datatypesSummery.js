@@ -28,8 +28,11 @@ const myFunstion=function(){
     console.log("hello world");
 }
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures   dac8umentation
+ 
 
-
-
+//+++++++++++++++++++++++++++++++++
+//stack,heap meamory 
+//primitive type=>stack meomery
+//non primitive =>heap meomery
 
 
